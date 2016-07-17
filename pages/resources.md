@@ -12,6 +12,7 @@ tagline:
 * [Should you teach Python or R for data science?](http://www.r-bloggers.com/should-you-teach-python-or-r-for-data-science/) by Keven Markham - Nice breakdown of questions which help the reader decide which language is best for their course. 
 * [8 Skills You Need to be a Data Scientist](http://blog.udacity.com/2014/11/data-science-job-skills.html) by David Holtz - Breaks down the data science jobs into 4 types of jobs and 8 skills (see figure below). 
 * [Ten simple rules for effective statistical practice](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004961)
+* [Not So Standard Deviations Podcast](https://soundcloud.com/nssd-podcast) - Podcast by Roger Peng and Hilary Parker. Talks about the latest in data science and data analysis in academia and industry. 
 
 ![Data Science Skills](http://i2.wp.com/blog.udacity.com/wp-content/uploads/2014/11/blog_dataChart_white.png) 
 
