@@ -7,7 +7,8 @@ tagline: Python Modules
 
 
 * [delorean](http://delorean.readthedocs.org/en/latest/) - date/time module
-* [pandas]
+* pandas
+
 
 ## Resources 
-
+* [merge, join and concatenate pandas dataframes](http://pandas.pydata.org/pandas-docs/stable/merging.html)

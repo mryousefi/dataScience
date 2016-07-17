@@ -10,7 +10,7 @@ tagline: R Packages
 	* [ggplot2 book](http://ggplot2.org/book/) - free!, [ggplot2 book Github repo](https://github.com/hadley/ggplot2-book)
 * [rflot](https://github.com/dcenergy/rflot) - R package to interface with the [Flot](http://www.flotcharts.org) JavaScript charting library. 
 * [rCharts](http://rcharts.io) - R package to create interactive JavaScript visualizations using lattice style plotting interfaces
-* [rQTL]
+* [htmlwidgets](http://www.htmlwidgets.org) - Javascript data visualizations in R. Can embed in an Rmarkdown. 
 
 
 ## Resources 
