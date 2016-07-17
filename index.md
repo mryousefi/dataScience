@@ -85,7 +85,7 @@ Not all the categories may need to be used for your specific analysis. For examp
 
 
 * [Resources](pages/resources.html)
-* [Data Resources](pages/rdataesources.html)
+* [Data Resources](pages/rdataresources.html)
 * [Open Source Data Science Masters](https://github.com/datasciencemasters/go)
 * [Johns Hopkins Data Science Specialization Course](https://www.coursera.org/specialization/jhudatascience/1)
 
